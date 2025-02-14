@@ -1,5 +1,5 @@
 #include "utils.cpp"
 
 int main() {
-  void print(add(5,6));
+  print(add(5,6));
 }
