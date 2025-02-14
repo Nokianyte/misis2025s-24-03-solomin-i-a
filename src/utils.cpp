@@ -1,3 +1,4 @@
+#include <iostream>
+
 int add(int a, int b) { return a + b; }
-int sub(int a, int b) { return a - b; }
-int mul(int a, int b) { return a * b; }
+void print(auto a) { std::cout << a << std::endl; }
